@@ -1,6 +1,6 @@
 # Create-Pattern-Of-Stars
-function createPattern(noofrows){
-    for (var i=0;i<noofrows;i++){
+function createPattern(numberoofrows){
+    for (var i=0;i<numberofrows;i++){
         var stringtoprint= "";
         for (var j=0;j<i+1;j++){
             stringtoprint= stringtoprint + "*"
