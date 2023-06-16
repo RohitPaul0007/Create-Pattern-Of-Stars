@@ -1,1 +1,1 @@
-# Create-Pattern-Of-Stars
+CREATE-PATTERN-OF-STARS
