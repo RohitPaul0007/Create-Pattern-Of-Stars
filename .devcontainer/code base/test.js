@@ -7,5 +7,6 @@ function createPattern(numberoofrows){
         }
         console.log(stringtoprint)
     }
+    
 }
 createPattern(100)
