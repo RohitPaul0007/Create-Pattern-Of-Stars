@@ -1,4 +1,5 @@
 //Create-Pattern-Of-Stars
+
 function createPattern(numberoofrows){
     for (let i=0;i<numberofrows;i++){
         let stringtoprint= "";
