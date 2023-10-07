@@ -10,4 +10,5 @@ function createPattern(numberoofrows){
     }
     
 }
+
 createPattern(100)
