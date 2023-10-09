@@ -1,4 +1,4 @@
-//Create-Pattern-Of-Stars
+///Create-Pattern-Of-Stars
 
 function createPattern(numberoofrows){
     for (let i=0;i<numberofrows;i++){
